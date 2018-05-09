@@ -1,3 +1,3 @@
 "# email-send-test example"
 
-This is a document Example 6
+This is a document Example 7
